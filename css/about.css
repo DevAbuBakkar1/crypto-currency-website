@@ -1,0 +1,147 @@
+section#about-banner {
+  text-align: center;
+  color: #fff;
+  padding-top: 124px;
+  padding-bottom: 70px;
+}
+
+.about-banner-content h2 {
+  font-size: 37px;
+  font-weight: bold;
+  margin-bottom: 13px;
+}
+
+.about-banner-content p {
+  opacity: .7;
+}
+
+
+/*========================== contact page csss===============================*/
+.contact-title h4 {
+  color: #0dc9ac;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.contact-title h3 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 37px;
+  margin: 16px 0;
+}
+
+.contact-title p {
+  color: #fff;
+  opacity: .7;
+  padding-right: 34px;
+}
+
+.col-md-6.address {
+  display: flex;
+  margin-top: 34px;
+}
+
+.icon-address {
+  margin-right: 15px;
+}
+
+.icon-address i {
+  background: #153358;
+  color: #0ac9ac;
+  padding: 13px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.content-address h3 {
+  color: #fff;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.content-address p {
+  color: #fff;
+  opacity: .7;
+}
+.content-address.call-me p a {
+  text-decoration: none;
+  color: #fff;
+  opacity: .7;
+}
+
+.content-address.mail-me p a {
+  text-decoration: none;
+  color: #fff;
+  opacity: .7;
+}
+.contact-right-content {
+  margin-left: 50px;
+  border: 1px solid #ffffff21;
+  padding: 43px;
+}
+
+.contact-right-content input {
+  width: 100%;
+  padding: 10px 10px;
+  margin-bottom: 25px;
+  background: #153358;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  color: #fff;
+}
+
+textarea#message {
+  width: 100%;
+  padding: 15px 10px;
+  background: #153358;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  color: #ffffff;
+  margin-bottom: 40px;
+  padding-bottom: 34px;
+}
+
+input#send-btn {
+  width: 50%;
+  background: #0ac9ac;
+}
+.row.contact-left-section {
+  padding-top: 55px;
+}
+section#google-map {
+  margin-top: 92px;
+  margin-bottom: 30px;
+}
+.container-fluid.padding-map {
+  padding: 0;
+}
+/*========================== contact page csss===============================*/
+
+
+/*========================== pricing page csss===============================*/
+section#pricing-section {
+  padding-top: 50px;
+}
+
+.pricing-title {
+  text-align: center;
+}
+
+.pricing-title h3 {
+  color: #0ac9ac;
+  font-size: 20px;
+}
+
+.pricing-title h2 {
+  color: #fff;
+  margin-top: 13px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.pricing-title {
+  margin-bottom: 60px;
+}
+/*========================== pricing page csss===============================*/
